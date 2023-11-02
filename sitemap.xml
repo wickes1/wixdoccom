@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://www.wix-doc.com/</loc>
+         <loc>https://wickes1.github.io/wixdoccom/</loc>
          <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.wix-doc.com/tags/</loc>
+         <loc>https://wickes1.github.io/wixdoccom/tags/</loc>
          <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.wix-doc.com/blog/</loc>
+         <loc>https://wickes1.github.io/wixdoccom/blog/</loc>
          <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.wix-doc.com/blog/2023/11/build-digital-signage-magic-mirror/</loc>
-         <lastmod>2023-11-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.wix-doc.com/blog/archive/2023/11/</loc>
-         <lastmod>2023-11-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.wix-doc.com/blog/category/magicmirror/</loc>
-         <lastmod>2023-11-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.wix-doc.com/tags/</loc>
+         <loc>https://wickes1.github.io/wixdoccom/tags/</loc>
          <lastmod>2023-11-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
