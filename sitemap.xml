@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wix-doc.com/til/espanso/</loc>
+         <lastmod>2023-11-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wix-doc.com/til/gitleaks/</loc>
          <lastmod>2023-11-21</lastmod>
          <changefreq>daily</changefreq>
