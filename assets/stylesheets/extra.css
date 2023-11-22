@@ -6,3 +6,40 @@ hr.blog-break {
   background: transparent;
   text-align: center;
 }
+
+/* mkdocs-changelog-plugin */
+
+.changelog-type-function {
+  background-color: #e6695bb0;
+}
+.changelog-type-function::before {
+  content: "Function Update";
+}
+
+.changelog-type-pageupdate {
+  background-color: #3f6ec6b0;
+}
+.changelog-type-pageupdate::before {
+  content: "Page Update";
+}
+
+.changelog-type-newpage {
+  background-color: #e6ad5bb0;
+}
+.changelog-type-newpage::before {
+  content: "New Page";
+}
+
+.changelog-type-newtil {
+  background-color:  #e6ad5bb0;
+}
+.changelog-type-newtil::before {
+  content: "New TIL";
+}
+
+.changelog-type-updatetil {
+  background-color: #3f6ec6b0;
+}
+.changelog-type-updatetil::before {
+  content: "Update TIL";
+}

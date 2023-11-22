@@ -1,0 +1,11 @@
+- "2023":
+    - "2023-11-21":
+        - function:
+            text: ChangeLog Page
+            href: /changelog
+        - newtil:
+            text: Espanso Introduction
+            href: /til/espanso
+        - updatetil:
+            text: Cloudflare GitHub Pages Custom Domain
+            href: /til/cloudflare/#using-github-provisioned-certificate-with-cloudflare
