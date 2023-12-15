@@ -2,67 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wix-doc.com/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/changelog/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/tags/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/blog/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/blog/2023/11/build-digital-signage-magic-mirror/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/arch-linux/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wix-doc.com/til/cli/</loc>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/cloudflare/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/docker-compose/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/espanso/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/til/gitleaks/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/blog/archive/2023/11/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wix-doc.com/tags/</loc>
-         <lastmod>2023-11-23</lastmod>
+         <lastmod>2023-12-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
